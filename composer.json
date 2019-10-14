@@ -1,5 +1,5 @@
 {
-    "name": "wimmike/ECPay",
+    "name": "wimmike/ec-pay",
     "description": "ECPay for Laravel 5",
     "type": "ecTool",
     "keywords": [
